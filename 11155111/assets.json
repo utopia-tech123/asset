@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "address": "0xdD79b7E480D628ED8e1b3f3e184dEdca18e3BA36",
+      "name": "U-COIN",
+      "symbol": "UCOIN",
+      "decimals": 18,
+      "precision": 0,
+      "logoURI": "https://www.yellow.org/images/duckies_200x200.png"
+    }
+  ]
+}
