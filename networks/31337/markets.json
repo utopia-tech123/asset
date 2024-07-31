@@ -1,0 +1,17 @@
+[
+  {
+    "symbol": "spot://ETH/USDC"
+  },
+  {
+    "symbol": "spot://WETH/USDC"
+  },
+  {
+    "symbol": "spot://BTC/USDC"
+  },
+  {
+    "symbol": "spot://DUCKIES/USDC"
+  },
+  {
+    "symbol": "spot://YELLOW/USDC"
+  }
+]
